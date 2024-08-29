@@ -37,8 +37,9 @@ I'm an Engineering Researcher with a strong foundation in Biomedical Engineering
   Mahatma Gandhi University, India
 
 ## 📫 How to Reach Me
-- Email: [vinil@odstockmedical.com](mailto:vinil@odstockmedical.com)
+- Email: [viniltc@gmail.com](mailto:viniltc@gmail.com)
 - LinkedIn: [Vinil T. Chackochan](https://www.linkedin.com/in/vinil-t-c-0b188a4b/)
+- Twitter: [viniltc](https://x.com/viniltc))
 - GitHub: [viniltc](https://github.com/viniltc)
 
 ## 🌐 Interests
