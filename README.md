@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vinil T. Chackochan
+# 👋 Hi, I'm Vinil Chackochan
 
 I'm an Engineering Researcher with a strong foundation in Biomedical Engineering. I specialize in systems engineering, risk management, and the development of medical devices. With a PhD in Bioengineering and Robotics, I have contributed to cutting-edge research and product development in the medical device industry.
 
