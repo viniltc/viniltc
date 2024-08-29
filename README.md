@@ -10,7 +10,8 @@ I'm an Engineering Researcher with a strong foundation in Biomedical Engineering
 
 ## 💬 Ask Me About
 - Systems Engineering in Medical Devices
-- Risk Management and Compliance in Biomedical Engineering
+- Neuro Muscular Electrical Stimulation and Assistive Technologies
+- Risk Management and Usability
 - Human Robotics
 - Software development for Medical Devices
 
