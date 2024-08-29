@@ -5,6 +5,7 @@ I'm an Engineering Researcher with a strong foundation in Biomedical Engineering
 ## 🌱 What I'm Currently Working On
 - Developing Functional Electrical Stimulation (FES) based Upper Limb Assistive Devices.
 - Managing risk analysis and compliance for medical devices according to IEC 60601 and ISO 13485 standards.
+- Software Development for Medical Device.
 - Enhancing the design and functionality of rehabilitation systems for people with neuromotor disorders.
 
 ## 💬 Ask Me About
