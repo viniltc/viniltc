@@ -25,8 +25,9 @@ I'm an Engineering Researcher with a strong foundation in Biomedical Engineering
 
 ## 📊 GitHub Stats
 ![Vinil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=viniltc&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniltc&layout=compact&theme=radical)
-[![Top Contributed Repo](https://github-readme-stats.vercel.app/api/pin/?username=viniltc&repo=your-repo-name&theme=radical)](https://github.com/viniltc/your-repo-name)
+
 
 
 ## 🎓 Education
