@@ -8,13 +8,6 @@ I'm an Engineering Researcher with a strong foundation in Biomedical Engineering
 - Software Development for Medical Device.
 - Enhancing the design and functionality of rehabilitation systems for people with neuromotor disorders.
 
-## 💬 Ask Me About
-- Systems Engineering in Medical Devices
-- Neuro Muscular Electrical Stimulation and Assistive Technologies
-- Risk Management and Usability for Medical Device
-- Human Robotics
-- Software development for Medical Devices
-
 ## 🛠️ Technical Skills
 - **Systems Engineering:** Requirements management, System architecture, Risk management 
 - **Regulatory Compliance:** EU MDR, IEC 60601, ISO 14971, IEC 62304, IEC 62366
@@ -49,7 +42,7 @@ I'm an Engineering Researcher with a strong foundation in Biomedical Engineering
 
 ## 🌐 Interests
 - **Badminton:** Regularly play doubles in club sessions.
-- **Cycling:** I usually cycle over 50 miles a week.
+- **Cycling:** I usually cycle over 40 miles a week.
 - **Hiking:** Enjoys mountain hiking and long walks.
 
 
